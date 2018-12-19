@@ -63,7 +63,7 @@ end
         pet.mood = "nervous"
       end
     end
-    
+    self.pets.clear
  end
   
   def list_pets
