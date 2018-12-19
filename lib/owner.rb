@@ -44,7 +44,7 @@ class Owner
     self.pets
     
     
-    mood= "happy"
+    dog.mood= "happy"
   
 end
 
