@@ -67,7 +67,7 @@ end
  end
   
   def list_pets
-    "I have #{self.pets[:fished].size} fish, #{self.pets[:dogs].size} dog(s), and #{self.pets[:cats]} cat(s).}"
+    "I have #{self.pets[:fishes].size} fish, #{self.pets[:dogs].size} dog(s), and #{self.pets[:cats]} cat(s).}"
   end
   
 end
